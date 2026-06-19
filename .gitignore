@@ -1,0 +1,12 @@
+AutogluonModels/
+
+# CatBoost
+catboost_info/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
